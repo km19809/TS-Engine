@@ -1,0 +1,16 @@
+{
+  "name": "ts-engine",
+  "version": "0.0.1",
+  "description": "VisualNovel Engine Web App with Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },"dependencies": {
+   "typescript":"^3.0.3"
+  },
+  "keywords": [
+    "Typescript"
+  ],
+  "author": "Minsoo Kim",
+  "license": "ISC"
+}
